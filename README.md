@@ -1,4 +1,4 @@
-# ninja-jobs
+# Vue 3 - Jobs Listings
 
 ## Project setup
 ```
